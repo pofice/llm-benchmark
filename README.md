@@ -17,5 +17,6 @@ deepseek等系列蒸馏模型本地部署测试，欢迎补充
 |RadeonVIIx4|        |deepseek-r1-distill-llama-70b|7.64|       |       |         |       |LM-Studio|
 | 2080ti22g| 2673v3  | deepseek-r1:32b        | 20.79   |       |       |         |       | ollama  |
 | 2080ti11g| 13700kf | deepseek-r1:14b        | 11      |       |       |         |       |         |
+| v100x2   | XEON3 ESx2 | deepseek-r1:671b/Q4      | 6.4   |       |       |         |       | ollama |
 
 感谢八云紫提供的测试数据
