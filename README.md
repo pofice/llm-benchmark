@@ -14,5 +14,6 @@ deepseek等系列蒸馏模型本地部署测试，欢迎补充
 | v100x2   | 4210    | unsloth/70b/Q4_K_M     | 14.08   | 38-56 | 37-52 | ?       | 250   | ollama  |
 | v100x1   | 4210    | unsloth/32b/Q4_K_M     | 25.47   | 86-87 | 76-77 | ?       | 221   | ollama  |
 | 4060ti   | 2680v4x2| llama3:70b             | 4.3     |       |       |         |       |         |
+|RadeonVIIx4|        |deepseek-r1-distill-llama-70b|7.64|       |       |         |       |LM-Studio|
 
 感谢八云紫提供的测试数据
